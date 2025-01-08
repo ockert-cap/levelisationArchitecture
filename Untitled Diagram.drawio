@@ -1,9 +1,46 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="u4xFz9gf6InahcVyrAAL">
-    <mxGraphModel>
+    <mxGraphModel dx="794" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qH5hMdlcWvjnzULhuMrj-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qH5hMdlcWvjnzULhuMrj-1" target="qH5hMdlcWvjnzULhuMrj-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qH5hMdlcWvjnzULhuMrj-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
+          <mxGeometry x="140" y="180" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qH5hMdlcWvjnzULhuMrj-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qH5hMdlcWvjnzULhuMrj-2" target="qH5hMdlcWvjnzULhuMrj-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qH5hMdlcWvjnzULhuMrj-2" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;outlineConnect=0;verticalAlign=top;align=center;shape=mxgraph.office.clouds.cloud_sharepoint;" vertex="1" parent="1">
+          <mxGeometry x="240" y="174.5" width="101" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="qH5hMdlcWvjnzULhuMrj-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qH5hMdlcWvjnzULhuMrj-3" target="qH5hMdlcWvjnzULhuMrj-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="426" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qH5hMdlcWvjnzULhuMrj-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/integration/Logic_Apps.svg;" vertex="1" parent="1">
+          <mxGeometry x="392" y="179" width="67" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="qH5hMdlcWvjnzULhuMrj-6" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#DD344C;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.email;" vertex="1" parent="1">
+          <mxGeometry x="252" y="260" width="56.52" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qH5hMdlcWvjnzULhuMrj-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qH5hMdlcWvjnzULhuMrj-6" target="qH5hMdlcWvjnzULhuMrj-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qH5hMdlcWvjnzULhuMrj-11" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Function_Apps.svg;" vertex="1" parent="1">
+          <mxGeometry x="510" y="172" width="68" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qH5hMdlcWvjnzULhuMrj-12" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#DD344C;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.email;" vertex="1" parent="1">
+          <mxGeometry x="252" y="350" width="56.52" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qH5hMdlcWvjnzULhuMrj-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.049;entryY=0.539;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qH5hMdlcWvjnzULhuMrj-3" target="qH5hMdlcWvjnzULhuMrj-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
